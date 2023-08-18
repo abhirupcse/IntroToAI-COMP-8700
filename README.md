@@ -1,1 +1,1 @@
-# IntroToAI-COMP-8700
+# Introduction To Artificial Intelligence COMP-8700
